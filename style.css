@@ -18,8 +18,10 @@
 }
 
 @media (max-width:768px) {
+
   .pic { text-align: center;
 }
+
 }
 .content-block {
   display: block;
